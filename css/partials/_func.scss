@@ -1,0 +1,12 @@
+@mixin flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@mixin bg_img {
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+}

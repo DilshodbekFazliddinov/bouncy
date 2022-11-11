@@ -1,0 +1,1007 @@
+@media (max-width:1200px) {
+    .container{
+        width: 960px;
+    }
+    section.team{
+        .container{
+            .bouncy{
+            
+                right: -50px;
+            }
+        }
+    }
+    section.testimonials{
+        .container{
+            .about{
+                width: 530px;
+            }
+        }
+    }
+}
+
+@media (max-width:1095px) {
+    .container{
+        width: 840px;
+    }
+    .container2{
+        // width: 820px;
+    }
+    section.team{
+        .container{
+            .bouncy{
+            
+                right: -90px;
+                width: 350px;
+                height: 300px;
+                background-size: cover;
+            }
+        }
+    }
+
+    section.testimonials{
+        .container{
+            .about{
+                width: 450px;
+            }
+        }
+    }
+}
+
+@media (max-width:1068px) {
+    .container{
+        width: 740px;
+    }
+    .container2{
+        width: 820px;
+    }
+
+    section.details{
+        .container2{
+            .text{
+                .text1{
+                    width: 250px;
+                }
+                .text2{
+                    width: 480px;
+                }
+            }
+        }
+    }
+
+    section.services{
+        .container2{
+            .design{
+                .copy{
+                    margin-right: 15px;
+                }
+            }
+            .skills{
+                .skill{
+                    p.abs{
+                        padding: 40px;
+                    }
+                }
+            }
+        }
+    }
+
+    section.team{
+        .container{
+           .impressed{
+            p.impres-text{
+                width: 500px;
+            }
+           }
+            .bouncy{
+            
+                right: -70px;
+                width: 300px;
+                height: 280px;
+                background-size: cover;
+            }
+        }
+    }
+
+    section.testimonials{
+        .container{
+            .about{
+                width: 350px;
+            }
+        }
+    }
+
+    section.contact{
+        .container2{
+            .skills{
+                .skill{
+                    width: 240px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width:916px) {
+    .container{
+        width: 700px;
+    }
+    .container2{
+        width: 760px;
+    }
+
+    section.about_us{
+        .container{
+            .about{
+                p.about-text{
+                    width: 360px;
+                }
+            }
+            .ipad{
+                width: 190px;
+                height: 290px;
+                background-size: cover;
+            }
+        }
+    }
+
+    section.details{
+        .container2{
+            .text{
+                .text1{
+                    width: 210px;
+                }
+                .text2{
+                    width: 440px;
+                }
+            }
+        }
+    }
+
+    section.featured{
+        .works{
+            .work{
+                height: 270px;
+            }
+        }
+    }
+
+    section.services{
+        .container2{
+            .design{
+                .copy{
+                    margin-right: 15px;
+                }
+            }
+            .skills{
+                .skill{
+                    p.abs{
+                        padding: 30px;
+                        
+                    }
+                }
+            }
+        }
+    }
+
+    section.team{
+        .container{
+            .impressed{
+                p.impres-title{
+                    margin-bottom: 40px;
+                }
+                p.impres-text{
+                    width: 400px;
+                    margin-bottom: 40px;
+                }
+            }
+
+            .bouncy{
+                right: -40px;
+                width: 280px;
+                height: 240px;
+                background-size: cover;
+            }
+        }
+    }
+
+    section.price{
+        .container2{
+            width: 750px;
+            .plans{
+                .plan, .hover{
+                    width: 210px;
+                    height: 290px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width:804px) {
+    
+    .container{
+        width: 600px;
+    }
+    .container2{
+        width: 700px;
+    }
+  
+    header{
+       .container{
+           nav{
+               ul.menu{
+                   gap: 5px;
+                   li{
+                       a{
+                           padding: 6px 10px;
+                       }
+                   }
+               }
+           }
+       }
+   } 
+
+   section.banner{
+       p.banner-title{
+           font-size: 20px;
+           letter-spacing: 14px;
+           margin-bottom: 30px;
+       }
+       p.banner-text{
+           width: 550px;
+       }
+   }
+
+   section.featured{
+    .works{
+        .work{
+            height: 220px;
+        }
+    }
+   }
+
+   section.services{
+    .container2{
+        .design{
+            width: 400px;
+            .copy{
+                margin-right: 15px;
+            }
+
+            .services-design{
+                p.text1{
+                    width: 350px;
+                }
+            }
+        }
+        .skills{
+            .skill{
+                p.abs{
+                    padding: 20px;
+                    
+                }
+            }
+        }
+    }
+    }
+
+   section.team{
+    .container{
+        .impressed{
+            p.impres-title{
+                margin-bottom: 30px;
+            }
+            p.impres-text{
+                width: 350px;
+                margin-bottom: 25px;
+            }
+        }
+
+        .bouncy{
+            right: -40px;
+            width: 240px;
+            height: 200px;
+            background-size: cover;
+        }
+    }
+   }
+
+   section.portfolio{
+       .container{
+           ul.menu{
+               width: 490px;
+           }
+           .img{
+                .first{
+                    width: 200px;
+                }
+           }
+       }
+   }
+
+   section.portfolio2{
+       padding-bottom: 70px;
+       .container{
+           padding: 45px 0;
+           p.title{
+               font-size: 13px;
+               letter-spacing: 2px;
+               margin-bottom: 24px;
+           }
+       }
+   }
+
+   section.the-team{
+       .container{
+        nav{
+            .image{
+                width: 200px;
+                height: 300px;
+                background-size: cover;
+            }
+            .admin{
+                padding: 20px 60px;
+                p.noman{
+                    margin-bottom: 25px;
+                }
+                p.text{
+                    margin-bottom: 30px;
+                    margin-left: -20px;
+                }
+            }
+        }
+       }
+   }
+
+   section.testimonials{
+    .container{
+        padding: 40px 60px;
+        .img{
+            width: 90px;
+            height: 90px;
+        }
+        .about{
+            width: 300px;
+           
+        }
+    }
+    }
+
+    section.price{
+        .container2{
+            width: 650px;
+            .plans{
+                .plan, .hover{
+                    width: 190px;
+                    height: 260px;
+                }
+            }
+        }
+    }
+
+    section.contact{
+        .container2{
+            .skills{
+                .skill{
+                    width: 200px;
+                    height: 250px;
+                    .img{
+                        height: 137px;
+                        span{
+                            width: 35px;
+                            height: 25px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    section.map{
+        
+        nav{
+            span{
+                left: 62%;
+            }
+        }
+    }
+
+
+
+}
+
+@media (max-width:719px) {
+    .container{
+        width: 550px;
+    }
+
+    .container2{
+        width: 600px;
+    }
+
+    a.btn{
+        padding: 7px 20px;
+        font-size: 10px;
+    }
+
+    header{
+        .container{
+            nav{
+                ul.menu{
+                    gap: 5px;
+                    li{
+                        a{
+                            padding: 5px 5px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+ 
+    section.banner{
+        p.banner-title{
+            font-size: 20px;
+            letter-spacing: 11px;
+            margin-bottom: 20px;
+        }
+        p.banner-text{
+            width: 500px;
+        }
+    }
+
+    section.about_us{
+        .container{
+            .about{
+                p.about-text{
+                    width: 340px;
+                }
+            }
+            .ipad{
+                width: 140px;
+                height: 260px;
+                background-size: cover;
+            }
+        }
+    }
+
+    section.details{
+        .container2{
+            .text{
+                .text1{
+                    width: 210px;
+                }
+                .text2{
+                    width: 330px;
+                }
+            }
+        }
+    }
+
+    section.featured{
+        .fold-footer{
+            .container2{
+                flex-direction: column;
+                p.fold-title{
+                    margin-bottom: 15px;
+                }
+            }
+        }
+    }
+
+    section.services{
+        .container2{
+            .design{
+                width: 350px;
+                .copy{
+                    margin-right: 15px;
+
+                    span{
+                        width: 35px;
+                        height: 35px;
+                      
+                    }
+                }
+    
+                .services-design{
+                    p.text1{
+                        width: 300px;
+                    }
+                }
+            }
+            .skills{
+                .skill{
+                    p.abs{
+                        padding: 15px;
+                        font-size: 12px;
+                        
+                    }
+                    p.name{
+                        font-size: 10px;
+                    }
+                }
+            }
+        }
+        }
+
+    section.team{
+            .container{
+                .impressed{
+                    p.impres-title{
+                        margin-bottom: 20px;
+                    }
+                    p.impres-text{
+                        width: 300px;
+                        margin-bottom: 20px;
+                    }
+                }
+        
+                .bouncy{
+                    right: -30px;
+                    width: 240px;
+                    height: 200px;
+                    background-size: cover;
+                }
+            }
+           }    
+
+
+     section.the-team{
+            .container{
+             nav{
+                 .image{
+                     width: 180px;
+                     height: 280px;
+                     background-size: cover;
+                 }
+                 .admin{
+                     padding: 20px 60px;
+                     p.noman{
+                         margin-bottom: 25px;
+                     }
+                     p.text{
+                         margin-bottom: 30px;
+                         margin-left: -20px;
+                     }
+                     .skills{
+                         .skill{
+                             p.group{
+                                 letter-spacing: 3px;
+                                 font-size: 12px;
+
+                             }
+                             p.protsent{
+                                 font-size: 12px;
+                             }
+                         }
+                     }
+                 }
+             }
+            }
+        }    
+
+        section.price{
+            .container2{
+                width: 590px;
+                .plans{
+                    .plan, .hover{
+                        width: 170px;
+                        height: 240px;
+                    }
+                    .hover{
+                        p.about{
+                            margin-left: 30px;
+                            line-height: 20px;
+                        }
+                    }
+                }
+            }
+        }
+        
+    section.contact{
+        .container2{
+            .skills{
+                .skill{
+                    width: 180px;
+                    height: 240px;
+                    .img{
+                        height: 127px;
+                        span{
+                            width: 30px;
+                            height: 20px;
+                            // background-size: cover;
+                        }
+                    }
+                    nav{
+                        padding: 20px 15px;
+                        p.title{
+                            font-size: 10px;
+                            margin-bottom: 17px;
+                        }
+                        p.text{
+                            font-size: 10px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width:636px) {
+    .container{
+        width: 450px;
+    }
+
+    .container2{
+        width: 500px;
+    }
+    header{
+        .container{
+            nav{
+                p.bouncy{
+                    font-size: 17px;
+                }
+                ul.menu{
+                    gap: 4px;
+                    li{
+                        a{
+                            padding: 5px 5px;
+                            font-size: 9px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    section.banner{
+        height: 75vh;
+        p.banner-title{
+            font-size: 18px;
+            letter-spacing: 8px;
+            margin-bottom: 20px;
+        }
+        p.banner-text{
+            width: 450px;
+        }
+        span{
+            bottom: 40px;
+        }
+    }
+
+    section.about_us{
+        .container{
+            padding: 90px 0;
+            .about{
+                p.about-text{
+                    width: 280px;
+                    font-size: 11px;
+                    margin-bottom: 25px;
+                }
+            }
+            .ipad{
+                width: 120px;
+                height: 230px;
+                background-size: cover;
+            }
+        }
+    }
+
+    section.details{
+        .container2{
+            p.details-title{
+                font-size: 12px;
+                margin-bottom: 10px;
+            }
+            .text{
+                .text1{
+                    width: 190px;
+                }
+                .text2{
+                    width: 290px;
+                }
+            }
+        }
+    }
+
+    section.featured{
+        .works{
+            .work{
+                height: 190px;
+                p.logos{
+                    font-size: 12px;
+                }
+            }
+        }
+        .fold-footer{
+            .container2{
+                flex-direction: column;
+                p.fold-title{
+                    margin-bottom: 15px;
+                    font-size: 12px;
+                }
+            }
+        }
+    }
+
+    section.services{
+        .container2{
+            flex-direction: column;
+            .design{
+                width: 300px;
+                .copy{
+                    margin-right: 15px;
+
+                    span{
+                        width: 35px;
+                        height: 35px;
+                      
+                    }
+                }
+    
+                .services-design{
+                    p.text1{
+                        width: 280px;
+                    }
+                }
+            }
+            .skills{
+                .skill{
+                    p.abs{
+                        margin-left: 25px;
+                        
+                    }
+                    p.name{
+                        margin-left: 25px;
+                    }
+                }
+            }
+        }
+        }
+
+        section.team{
+            .container{
+                .impressed{
+                    p.impres-title{
+                        margin-bottom: 20px;
+                    }
+                    p.impres-text{
+                        width: 300px;
+                        margin-bottom: 20px;
+                    }
+                }
+        
+                .bouncy{
+                    top: -90px;
+                    right: -30px;
+                    width: 200px;
+                    height: 160px;
+                    background-size: cover;
+                }
+            }
+           }  
+
+           section.testimonials{
+            .container{
+                padding: 40px 60px;
+                .img{
+                    width: 70px;
+                    height: 70px;
+                }
+                .about{
+                    width: 220px;
+                    p.text{
+                        font-size: 9px;
+                        line-height: 15px;
+                        margin-bottom: 24px;
+                    }
+                    p.name{
+                        font-size: 10px;
+                        margin-bottom: 40px;
+                    }
+                   
+                }
+            }
+            }
+
+        section.blog{
+            .container{
+                p.latest{
+                    font-size: 11px;
+                    margin-bottom: 30px;
+                }
+                p.section-text{
+                    font-size: 10px;
+                    width: 420px;
+                }
+                .container2{
+                    p.title{
+                        font-size: 11px;
+                        margin-bottom: 14px;
+                    }
+                    p.text{
+                        font-size: 10px;
+                    }
+                    p.section-text{
+                        width: 400px;
+                        line-height: 15px;
+                        margin-bottom: 50px;
+                    }
+                }
+            }
+            nav.bullets{
+                span{
+                    width: 7px;
+                    height: 7px;
+                }
+            }
+        }
+
+        section.price{
+            .container2{
+                width: 500px;
+                
+                .plans{
+                    flex-wrap: wrap;
+                    
+                    .plan, .hover{
+                        width: 200px;
+                        height: 240px;
+                        margin-bottom: 30px;
+                    }
+                    .hover{
+                        p.about{
+                            margin-left: 30px;
+                            line-height: 20px;
+                        }
+                    }
+                }
+            }
+        }
+
+        section.contact{
+            .container2{
+                .skills{
+                    flex-wrap: wrap;
+                
+                    .skill{
+                        width: 200px;
+                        height: 240px;
+                        margin-bottom: 20px;
+                        .img{
+                            height: 127px;
+                            span{
+                                width: 30px;
+                                height: 20px;
+                                // background-size: cover;
+                            }
+                        }
+                      
+                    }
+                }
+            }
+        }
+}
+
+@media (max-width:525px) {
+    .container{
+        width: 350px;
+    }
+
+    .container2{
+        width: 400px;
+    }
+
+    .logo-title{
+        p.section-title{
+            font-size: 13px;
+            letter-spacing: 5px;
+            margin-bottom: 30px;
+        }
+        p.section-text{
+            font-size: 10px;
+            width: 400px;
+            margin-bottom: 70px;
+        }
+    }
+
+    header{
+        .container{
+            nav{
+              
+                flex-direction: column;
+              
+            }
+        }
+    }
+
+    section.banner{
+        height: 60vh;
+        p.banner-title{
+            font-size: 15px;
+            letter-spacing: 7px;
+            margin-bottom: 16px;
+        }
+        p.banner-text{
+            width: 400px;
+            font-size: 10px;
+        }
+        span{
+            bottom: 40px;
+        }
+    }
+
+    section.about_us{
+        .container{
+            padding: 75px 0;
+           .ipad{
+               display: none;
+           }
+        }
+    }
+
+    section.details{
+        .container2{
+            p.details-title{
+                font-size: 12px;
+                margin-bottom: 10px;
+            }
+            .text{
+               flex-direction: column;
+            align-items: flex-start;
+            .text1{
+                margin-bottom: 10px;
+            }
+            }
+        }
+    }
+
+    section.featured{
+        .works{
+            .work{
+                height: 170px;
+                p.logos{
+                    font-size: 11px;
+                }
+            }
+        }
+        .fold-footer{
+            .container2{
+                flex-direction: column;
+                p.fold-title{
+                    margin-bottom: 15px;
+                    font-size: 12px;
+                    text-align: center;
+                }
+            }
+        }
+    }
+
+    section.team{
+        .container{
+            .bouncy{
+              display: none;
+            }
+        }
+       } 
+
+       section.portfolio{
+        .container{
+            ul.menu{
+                width:410px ;
+            }
+            .img{
+                 .first{
+                    display: none;
+                 }
+            }
+        }
+    }
+
+    
+}
+
+    
+
+  
